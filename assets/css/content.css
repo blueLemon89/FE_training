@@ -1,0 +1,76 @@
+
+#content .section{
+    padding: 60px;
+    width: 1011px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section__heading{
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+.section__sub__heading
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+.section__content{
+    font-size: 1rem;
+    font-style: italic;
+    text-align: justify;
+    line-height: 1.5rem;
+}
+#content .person__list{
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+#content .person__item
+{
+    float: left;
+    width: 33.33333%;
+    text-align: center;
+}
+
+.person__name
+{
+    font-size: 0.9rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.person__img{
+    margin-top: 15px;
+    height: 255px;
+    width: 200px;
+    border-radius: 50%;
+}
+.music{
+    background-color: rgb(168, 147, 166);
+}
+.video1
+{
+
+    margin: 15px 20px 20px;
+    padding-left: 50px;
+    padding-right: 100px;
+    max-width: 45%;
+    height: 400px;
+    text-align: center;
+}
+.video2
+{
+    margin: 15px 50px 20px;
+    padding-left: 50px;
+    padding-right: 100px;
+    max-width: 40%;
+    height: 400px;
+    text-align: center;
+}
