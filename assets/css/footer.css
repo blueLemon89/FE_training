@@ -21,7 +21,7 @@
     display: flex;
     margin-left: 250px;
 }
-.fa-solid{
+.fa-location-dot, .fa-phone, .fa-envelope{
     color:#af5779;
 }
 .icon__list
